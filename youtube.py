@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 
 # Arguments that need to passed to the build function
-DEVELOPER_KEY = ""
+DEVELOPER_KEY = "AIzaSyBXgN_Cc9196bV-2SFctLe-d8XEXFWwRW8"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 

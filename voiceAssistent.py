@@ -89,7 +89,7 @@ if __name__=='__main__':
                 speak("google is open noe")
                 time.sleep(5)
             elif 'open spotify' in statement:
-                webbrowser.open_new_tab("https://spotify.com")
+                webbrowser.open_new_tab("https://open.spotify.com")
             elif 'show image' in statement:
                 root = tk.Tk() 
                 root.withdraw() 
